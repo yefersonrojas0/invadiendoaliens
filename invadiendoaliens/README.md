@@ -1,6 +1,9 @@
 # INVADIENDO ALIENS
 
 ![Game Screenshot](Inicio_imagen.png) 
+
+
+
 ![Game Screenshot](juego_imagen.png)
 
 ## Descripción
